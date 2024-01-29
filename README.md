@@ -1,2 +1,2 @@
-# MalwareAnalystProfessional
-Malware Analyst Professional - Level 1
+# Malware Analyst Professional - Level 1
+Link to the course - https://training.trainsec.net/malware-analyst-professional
