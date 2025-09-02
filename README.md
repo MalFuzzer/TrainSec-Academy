@@ -1,3 +1,5 @@
+# The MAoS Bundle
+https://trainsec.net/courses/maos-malware-analysis-on-steroids-bundle/
 # Windows Security Reseacher Learning Path
 https://trainsec.net/windows-security-researcher/
 # Malware Analyst Professional - Level 1
